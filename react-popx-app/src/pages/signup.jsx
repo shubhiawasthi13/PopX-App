@@ -62,7 +62,7 @@ export default function Signup() {
             </div>
 
             {/* Password */}
-            <div className="absolute top-[338px] left-[20px] w-[335px] flex flex-col gap-1">
+            <div className="absolute top-[340px] left-[20px] w-[335px] flex flex-col gap-1">
               <label
                 htmlFor="password"
                 className="font-rubik text-[14px] text-[#6C25FF]"
