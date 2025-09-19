@@ -123,9 +123,9 @@ export default function Signup() {
         </div>
 
         {/* Button fixed at bottom */}
-        <div className="absolute top-[636px] left-[20px] w-[335px]">
+        <div className="mt-auto w-full max-w-[335px] mx-auto">
           <Link to="/profile">
-            <button className="w-full h-[46px] bg-[#6C25FF] rounded-[6px] font-rubik font-medium text-[16px] text-white hover:bg-[#5721cc] transition-colors">
+            <button className="w-full h-12 bg-[#6C25FF] rounded-md font-rubik font-medium text-[16px] text-white hover:bg-[#5721cc] transition-colors">
               Create Account
             </button>
           </Link>
