@@ -73,7 +73,7 @@ export default function Signup() {
                 id="password"
                 type="password"
                 placeholder="••••••••"
-                className="w-full h-[49px] px-3 border border-[#CBCBCB] rounded-[6px] focus:outline-none focus:border-[#6C25FF]"
+                className="w-full h-[40px] px-3 border border-[#CBCBCB] rounded-[6px] focus:outline-none focus:border-[#6C25FF]"
               />
             </div>
 
