@@ -78,7 +78,7 @@ export default function Signup() {
             </div>
 
             {/* Company Name */}
-            <div className="absolute top-[400px] left-[20px] w-[335px] flex flex-col gap-1">
+            <div className="absolute top-[410px] left-[20px] w-[335px] flex flex-col gap-1">
               <label
                 htmlFor="company"
                 className="font-rubik text-[14px] text-[#6C25FF]"

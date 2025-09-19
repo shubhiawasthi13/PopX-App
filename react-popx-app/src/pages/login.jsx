@@ -34,7 +34,7 @@ export default function Login() {
               />
             </div>
 
-            <div className="flex flex-col gap-2 mt-[20px]">
+            <div className="flex flex-col gap-2 mt-[10px]">
               <label
                 className="font-rubik text-[14px] text-[#6C25FF]"
                 htmlFor="password"
